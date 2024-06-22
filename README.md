@@ -5,7 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sujay-Patel-GitHub&label=Profile%20views&color=0e75b6&style=flat" alt="Sujay-Patel-GitHub" /> </p>
 
 
-https://github.com/sujay1512/Robotic-Arm-OpenCV/assets/100477123/4430304c-ae13-4995-a14a-ae5f4229ba39
+
+https://github.com/Sujay-Patel-GitHub/Robotic-Arm-Opencv/assets/173051781/5d4a48a1-2c9d-4602-bf07-512593c33f8c
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
